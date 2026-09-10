@@ -96,6 +96,10 @@ The dashboard is used to identify:
 
 Detailed business insights are presented in the Power BI dashboard.
 
+## Dashboard
+
+![Retail Sales Dashboard](Retail sales data analysis.png)
+
 ## Skills Demonstrated
 
 This project demonstrates practical experience with:
