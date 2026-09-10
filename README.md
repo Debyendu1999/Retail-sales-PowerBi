@@ -83,6 +83,9 @@ Revenue was calculated using:
 ```text
 Revenue = Quantity × Unit Price
 ```
+## Dashboard
+
+![Retail Sales Dashboard](Retail%20sales%20data%20analysis.png)
 
 ## Key Insights
 
@@ -95,12 +98,6 @@ The dashboard is used to identify:
 * Overall sales performance
 
 Detailed business insights are presented in the Power BI dashboard.
-
-## Dashboard
-
-## Dashboard
-
-![Retail Sales Dashboard](Retail%20sales%20data%20analysis.png)
 
 ## Skills Demonstrated
 
