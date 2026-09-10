@@ -98,7 +98,9 @@ Detailed business insights are presented in the Power BI dashboard.
 
 ## Dashboard
 
-![Retail Sales Dashboard](Retail sales data analysis.png)
+## Dashboard
+
+![Retail Sales Dashboard](Retail%20sales%20data%20analysis.png)
 
 ## Skills Demonstrated
 
